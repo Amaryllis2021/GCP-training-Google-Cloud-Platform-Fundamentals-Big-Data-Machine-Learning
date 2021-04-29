@@ -1,4 +1,4 @@
-# In this exercise you need to load the data baby names into a new table
+#In this exercise you need to load the data baby names (yob2014.txt) into a new table
 SELECT
  name, count
 FROM
